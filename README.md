@@ -120,7 +120,7 @@ info
 	- ex: info.language.splice(1,1)
 -insert element to array - use push
 	- ex: info.language.push({"languages":"jQuery"})
-	- 
+
 ##Accessing information from the object list
 - use the for loop
 - script:
