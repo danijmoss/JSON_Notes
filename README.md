@@ -1,6 +1,5 @@
-# JSON Notes
-##Notes taken from JavaScript and JSON tutorial on Lynda.com
-#JSON and JavaScript
+#Notes taken from JavaScript and JSON tutorial on Lynda.com
+##JSON and JavaScript
 - common format - key/value pairs
 - ex: 
 ```
